@@ -1,17 +1,16 @@
-## Docker Single Page Application (SPA) Dev Environment ##
----
+# Docker Single Page Application (SPA) Dev Environment #
 
-# Description #
+## Description ##
 
 This image includes node, npm, yo, gulp and bower.
 
-# Using the Image #
+## Using the Image ##
 
 This image can be pulled from docker hub using the following command:
 
 	`docker pull mbonano/docker-spa-dev`
 
-# Pushing Changes #
+## Pushing Changes ##
 
 If you would like to fork this repository and push custom changes to your own docker hub repo, you can do the following:
 
@@ -29,5 +28,5 @@ If you would like to fork this repository and push custom changes to your own do
 
 	`docker push <your-dockerhub-username>/docker-spa-dev`
 
-# Credits #
+## Credits ##
 Created by [Mark Bonano](https://www.linkedin.com/in/markbonano).
