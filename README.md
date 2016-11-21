@@ -8,7 +8,7 @@ This image includes node, npm, yo, gulp and bower.
 
 This image can be pulled from docker hub using the following command:
 
-	`docker pull mbonano/docker-spa-dev`
+	docker pull mbonano/docker-spa-dev
 
 ## Pushing Changes ##
 
